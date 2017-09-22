@@ -15,8 +15,8 @@ import javax.swing.JFrame;
 import javax.swing.JTextArea;
 
 /**
- *
- * @author David Rogers
+ *@author David Rogers
+ * This file contains all of the logic for the game
  */
 public class GamePanel extends AbsGamePanel {
 
