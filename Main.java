@@ -19,7 +19,7 @@ import javax.swing.WindowConstants;
 public class Main extends JFrame {
     GamePanel gamePanel;
 
-
+    //This sets up the main component that is drawn on
     public Main() {
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setTitle("31");
